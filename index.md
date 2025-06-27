@@ -8,7 +8,7 @@ title: "Homepage"
 Benvenuto nel mio sito personale.  
 Mi chiamo **GMP**, e questo spazio raccoglie le mie idee, progetti e passioni.
 
-## 🧠 Chi sono
+## 🧠 [Chi sono](/about/)
 
 Sono interessato a:
 - 🌐 Sviluppo web
