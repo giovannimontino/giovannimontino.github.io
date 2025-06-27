@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Benvenuto"
+title: "Homepage"
 ---
 
 # 👋 Ciao!
