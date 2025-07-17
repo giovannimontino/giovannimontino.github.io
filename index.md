@@ -15,7 +15,7 @@ Sono interessato a:
 - 🧪 Tecnologia e innovazione
 - ✍️ Scrittura e apprendimento
 
-## 📁 Progetti
+## 📁 [Progetti](/projects/)
 
 1. **Progetto Uno** – descrizione breve
 2. **Progetto Due** – altro progetto interessante
