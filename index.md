@@ -4,8 +4,7 @@ title: "Homepage"
 ---
 
 # Giovanni
-# Montino
-# Pelagi
+# Montino Pelagi
 
 Benvenuto nel mio sito personale e professionale. Questo spazio raccoglie i miei progetti e la mia attività come Bioingegnere, ma anche qualcuna delle mie grandi passioni.
 
