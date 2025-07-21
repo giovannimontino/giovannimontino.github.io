@@ -13,7 +13,7 @@ title: "Homepage"
 </div>
 
 
-Benvenuto nel mio sito personale e professionale. Questo spazio raccoglie i miei progetti e la mia attività come Bioingegnere, oltre che qualcuna delle mie grandi passioni.
+Benvenuto nel mio sito personale. Questo spazio raccoglie i miei progetti e la mia attività professionale, oltre che qualcuna delle mie grandi passioni.
 
 ## 🧠 [Chi sono](/about/)
 
@@ -33,5 +33,3 @@ Sono interessato a:
 - GitHub: [@giovannimontino](https://github.com/giovannimontino)
 
 ---
-
-A presto!
