@@ -3,15 +3,12 @@ layout: default
 title: "Homepage"
 ---
 
-%# Giovanni
-%# Montino Pelagi
-
 <div style="display: flex; align-items: center;">
+<img src="photos/homepage.jpg" alt="Foto Homepage" style="width: 120px; margin-right: 20px;">
   <div>
     <h1 style="margin: 0;">Giovanni</h1>
     <h2 style="margin: 0;">Montino Pelagi</h2>
   </div>
-  <img src="photos/homepage.jpg" alt="Foto di Marco" style="width: 100px; margin-left: 20px;">
 </div>
 
 Benvenuto nel mio sito personale e professionale. Questo spazio raccoglie i miei progetti e la mia attività come Bioingegnere, ma anche qualcuna delle mie grandi passioni.
