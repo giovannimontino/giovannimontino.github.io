@@ -3,10 +3,11 @@ layout: default
 title: "Homepage"
 ---
 
-# 👋 Ciao!
+# Giovanni
+# Montino
+# Pelagi
 
-Benvenuto nel mio sito personale.  
-Mi chiamo **GMP**, e questo spazio raccoglie le mie idee, progetti e passioni.
+Benvenuto nel mio sito personale e professionale. Questo spazio raccoglie i miei progetti e la mia attività come Bioingegnere, ma anche qualcuna delle mie grandi passioni.
 
 ## 🧠 [Chi sono](/about/)
 
@@ -27,4 +28,4 @@ Sono interessato a:
 
 ---
 
-Grazie per la visita!
+A presto!
