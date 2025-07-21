@@ -8,10 +8,12 @@ title: "Homepage"
   <div>
     <h1 style="margin: 0;">Giovanni</h1>
     <h2 style="margin: 0;">Montino Pelagi</h2>
+    <h3 style="margin: 0;">PhD in Biomedical Engineering</h3>
   </div>
 </div>
 
-Benvenuto nel mio sito personale e professionale. Questo spazio raccoglie i miei progetti e la mia attività come Bioingegnere, ma anche qualcuna delle mie grandi passioni.
+
+Benvenuto nel mio sito personale e professionale. Questo spazio raccoglie i miei progetti e la mia attività come Bioingegnere, oltre che qualcuna delle mie grandi passioni.
 
 ## 🧠 [Chi sono](/about/)
 
