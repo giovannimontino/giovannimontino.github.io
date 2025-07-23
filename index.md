@@ -16,7 +16,7 @@ lang : it
 
 Benvenuto nel mio sito personale. Questo spazio raccoglie i miei progetti e la mia attività professionale, oltre che qualcuna delle mie grandi passioni.
 
-## 🧠 [Chi sono](/about/)
+## 🧠 [Chi sono]
 
 Sono interessato a:
 - 🌐 Sviluppo web
