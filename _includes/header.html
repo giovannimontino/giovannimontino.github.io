@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+
+    <nav class="site-nav">
+      {% assign nav_items = site.pages | where:"lang", page.lang %}
+      {% for item in nav_items %}
+        {% if item.title %}
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  </div>
+</header>
