@@ -16,7 +16,7 @@ lang : en
 
 Welcome to my personal website. This space collects my projects and my professional activity, as well as some of my greatest passions.
 
-## 🧠 [About]
+## 🧠 About
 
 Sono interessato a:
 - 🌐 Sviluppo web
