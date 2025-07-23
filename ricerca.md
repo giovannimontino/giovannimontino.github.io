@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Projects
-permalink: /projects/
+title: Ricerca
+permalink: /ricerca/
 ---
 
-# Progetti
+# Ricerca
 
 Ho fatto un sacco di roba
