@@ -6,7 +6,7 @@
       {% assign nav_items = site.pages | where:"lang", page.lang %}
       {% for item in nav_items %}
         {% if item.title %}
-          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          <a href="{{ item.url | relative_url }}" style="margin-left: 15px;">{{ item.title }}</a>
         {% endif %}
       {% endfor %}
     </nav>
