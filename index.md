@@ -25,8 +25,9 @@ Sono interessato a:
 
 ## 📁 [Ricerca](/ricerca/)
 
-1. **Progetto Uno** – descrizione breve
-2. **Progetto Due** – altro progetto interessante
+1. **Modellistica computazionale in cardiologia** – descrizione breve
+2. **Diagnostica in silico: coronaropatia** – altro progetto interessante
+3. **Planning pre-operatorio: stenting coronarico** - altro progetto interessante
 
 ## 📫 Contatti
 

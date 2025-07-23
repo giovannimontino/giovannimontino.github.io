@@ -25,8 +25,9 @@ Sono interessato a:
 
 ## 📁 [Research](/research/)
 
-1. **Progetto Uno** – descrizione breve
-2. **Progetto Due** – altro progetto interessante
+1. **Computational modeling in cardiology** – descrizione breve
+2. **In silico diagnostics: coronary artery disease** – altro progetto interessante
+3. **Pre-operative planning: percutaneous coronary intervention** - altro progetto interessante
 
 ## 📫 Contacts
 
