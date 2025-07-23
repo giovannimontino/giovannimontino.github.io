@@ -33,5 +33,6 @@ Sono interessato a:
 
 - Email: [giovanni.montino.pelagi@gmail.com](mailto:giovanni.montino.pelagi@gmail.com)
 - GitHub: [@giovannimontino](https://github.com/giovannimontino)
+- LinkedIn: [Giovanni Montino Pelagi](https://www.linkedin.com/in/giovanni-montino-pelagi/)
 
 ---
