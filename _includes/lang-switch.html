@@ -5,12 +5,3 @@
     <a href="/"><img src="/photos/flags/flag_it.png" alt="Italiano" width="50" /></a>
   {% endif %}
 </div>
-
-<nav>
-  <ul>
-    {% assign pages_for_lang = site.pages | where:"lang", page.lang %}
-    {% for p in pages_for_lang %}
-      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
