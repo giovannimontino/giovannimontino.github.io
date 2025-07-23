@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+lanng : it
 ---
 
 # Chi sono
