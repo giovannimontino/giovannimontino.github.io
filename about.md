@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 lang : it
 ---
+{% include lang-switch.html %}
 
 # Chi sono
 

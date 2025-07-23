@@ -3,7 +3,6 @@ layout: default
 title: "Home"
 lang : en
 ---
-
 {% include lang-switch.html %}
 
 <div style="display: flex; align-items: center;">

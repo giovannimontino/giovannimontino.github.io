@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 lang : en
 ---
+{% include lang-switch.html %}
 
 # Research
 
