@@ -4,6 +4,8 @@ title: "Homepage"
 lang : it
 ---
 
+{% include lang-switch.html %}
+
 <div style="display: flex; align-items: center;">
 <img src="photos/homepage.jpg" alt="Foto Homepage" style="width: 120px; margin-right: 20px;">
   <div>
