@@ -2,7 +2,7 @@
 layout: default
 title: Ricerca
 permalink: /ricerca/
-lanng : it
+lang : it
 ---
 
 # Ricerca

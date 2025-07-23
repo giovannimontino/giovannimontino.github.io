@@ -2,7 +2,7 @@
 layout: default
 title: Research
 permalink: /research/
-lanng : en
+lang : en
 ---
 
 # Research

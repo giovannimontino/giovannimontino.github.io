@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Homepage"
-lanng : en
+lang : en
 ---
 
 <div style="display: flex; align-items: center;">
