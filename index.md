@@ -19,10 +19,12 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 
 ## 👨‍🔬 Chi sono
 
-Sono interessato a:
-- 🌐 Sviluppo web
-- 🧪 Tecnologia e innovazione
-- ✍️ Scrittura e apprendimento
+Ingegnere, ricercatore, sempre a metà tra fisica e medicina.
+- 🫀 Ricercatore ad assegno in bioingegneria e cardiologia
+- 🦿 Master in "Advanced Technologies in Rehabilitation"
+- 👨‍🎓 Laurea magistrale in Ingegnerie Biomedica, Laurea in Ingegneria dei Materiali e Nanotecnologie
+
+Appassionato di sport e di montagna, con la folle ambizione di diventare maestro di sci.
 
 ## 📁 [Ricerca](/ricerca/)
 
