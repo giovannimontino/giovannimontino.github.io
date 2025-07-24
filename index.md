@@ -44,11 +44,11 @@ Sono interessato a:
 <div style="display: flex; align-items:center">
 <img src="/photos/home/project2_1.png" alt="Foto ricerca 3" style="width: 210px; margin-right: 20px; margin-bottom: 20px; margin-top: 10px;">
   <div>
-    <h3 style="font-weight: 600;">Diagnostica in silico: coronaropatie</h3>
+    <h3 style="font-weight: 600;">Diagnostica in silico: coronaropatie e ischemia</h3>
     <ul>
-      <li>punto1</li>
-      <li>punto2</li>
-      <li>punto3</li>
+      <li>Analisi FFR<sub>CT</sub>:<br>rilevanza funzionale delle stenosi</li>
+      <li>Analisi Myocardial Blood Flow MBF:<br>localizzazione di ischemia da sforzo</li>
+      <li>Analisi integrata:<br>associazione lesione-ischemia</li>
     </ul>
     <p> altre cose </p>
   </div>
