@@ -18,8 +18,11 @@
         </ul>
       {%- endif %}
       </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+      <div class="footer-col" style="text-align: right;">
+        <p style="margin: 0;">
+            {{ site.description_line1 | escape }}<br>
+            {{ site.description_line2 | escape }}
+        </p>
       </div>
     </div>
 
