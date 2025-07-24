@@ -32,8 +32,8 @@ Sono interessato a:
     <h3 style="font-weight: 600;">Computational modeling of cardiac perfusion</h3>
     <ul>
       <li>Multiphysics model of blood flow: from large arteries to capillaries</li>
-      <li>High fidelity simulations: CFD + microcirculation flow</li>
-      <li>Patient specific setting: 3D CT-derived anatomy</li>
+      <li>High fidelity simulations:<br>CFD + blood flow in the microcirculation</li>
+      <li>Patient specific setting:<br> CT-derived 3D anatomy</li>
     </ul>
     <p> Written and implemented in </p>
     <a href="https://lifex.gitlab.io/" target="_blank" rel="noopener noreferrer"> lifex </a>
