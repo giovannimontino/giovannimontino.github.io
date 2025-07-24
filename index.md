@@ -48,7 +48,7 @@ Sono interessato a:
     <ul>
       <li>Analisi FFR<sub>CT</sub>:<br>rilevanza funzionale delle stenosi</li>
       <li>Myocardial Blood Flow MBF:<br>diagnosi di ischemia da sforzo</li>
-      <li>Analisi integrata:<br>associazione lesione-ischemia</li>
+      <li>Analisi integrata:<br>associazione stenosi-ischemia</li>
     </ul>
     <p> Fondato su metriche cliniche </p>
   </div>
