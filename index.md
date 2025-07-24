@@ -37,7 +37,7 @@ Sono interessato a:
     </ul>
     <p> Scritto e implementato in <a href="https://lifex.gitlab.io/" target="_blank" rel="noopener noreferrer"> lifex </a></p>
   </div>
-<img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 205px; margin-left: 20px; margin-bottom: 20px;">
 </div>
 <hr>
 

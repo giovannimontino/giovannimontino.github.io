@@ -37,8 +37,9 @@ Sono interessato a:
     </ul>
     <p> Written and implemented in <a href="https://lifex.gitlab.io/" target="_blank" rel="noopener noreferrer"> lifex </a></p>
   </div>
-<img src="/photos/home/project1_2.png" alt="Research pic 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_2.png" alt="Research pic 2" style="width: 205px; margin-left: 20px; margin-bottom: 20px;">
 </div>
+<hr>
 
 2. **In silico diagnostics: coronary artery disease** – altro progetto interessante
 3. **Pre-operative planning: percutaneous coronary intervention** - altro progetto interessante
