@@ -50,7 +50,7 @@ Sono interessato a:
       <li>Analisi Myocardial Blood Flow MBF:<br>localizzazione di ischemia da sforzo</li>
       <li>Analisi integrata:<br>associazione lesione-ischemia</li>
     </ul>
-    <p> altre cose </p>
+    <p> Fondato su metriche cliniche </p>
   </div>
 <img src="/photos/home/project2_2.png" alt="Foto ricerca 4" style="width: 215px; margin-left: 20px; margin-bottom: 20px; margin-top: 10px;">
 </div>
