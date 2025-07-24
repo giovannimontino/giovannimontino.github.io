@@ -29,7 +29,7 @@ Sono interessato a:
 <div style="display: flex; align-items:center">
 <img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
   <div>
-    <h3 style="font-weight: 600";>Computational modeling of cardiac perfusion</h3>
+    <h3 style="font-weight: 600;">Computational modeling of cardiac perfusion</h3>
     <ul>
       <li>Multiphysics model of blood flow: from large arteries to capillaries</li>
       <li>High fidelity Finite Element simulations</li>
