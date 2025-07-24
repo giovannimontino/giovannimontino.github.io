@@ -44,10 +44,10 @@ Sono interessato a:
 <div style="display: flex; align-items:center">
 <img src="/photos/home/project2_1.png" alt="Foto ricerca 3" style="width: 210px; margin-right: 20px; margin-bottom: 20px; margin-top: 10px;">
   <div>
-    <h3 style="font-weight: 600;">In silico diagnostics: coronary artery disease</h3>
+    <h3 style="font-weight: 600;">In silico diagnostics:<br>coronary artery disease</h3>
     <ul>
-      <li>FFR<sub>CT analysis</sub>:<br>functional significance of stenoses</li>
-      <li>Myocardial Blood Flow MBF:<br>diagnosis of stress-induced ischemia</li>
+      <li>FFR<sub>CT analysis</sub>:<br>stenosis funcional significance</li>
+      <li>Myocardial Blood Flow MBF:<br>diagnose stress-induced ischemia</li>
       <li>Integrated analysis:<br>stenosis-ischemia association</li>
     </ul>
     <p> Based on clinical metrics </p>
