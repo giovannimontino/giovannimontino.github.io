@@ -52,7 +52,7 @@ Sono interessato a:
     </ul>
     <p> altre cose </p>
   </div>
-<img src="/photos/home/project1_2.png" alt="Foto ricerca 4" style="width: 215px; margin-left: 20px; margin-bottom: 20px; margin-top: 10px;">
+<img src="/photos/home/project2_2.png" alt="Foto ricerca 4" style="width: 210px; margin-left: 20px; margin-bottom: 20px; margin-top: 10px;">
 </div>
 <hr>
 
