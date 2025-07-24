@@ -17,7 +17,7 @@ lang : en
 Welcome to my personal website. This space collects my professional activity, my research and projects.
 Extra content: a couple of my greatest passions nobody asked for.
 
-## 🧠 About
+## 👨‍🔬 About
 
 Sono interessato a:
 - 🌐 Sviluppo web

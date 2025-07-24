@@ -17,7 +17,7 @@ lang : it
 Benvenuto nel mio sito personale. Questo spazio raccoglie la mia attività professionale, la mia ricerca e i miei progetti.
 Contenuti extra: qualche mia grande passione. Così, per gradire.
 
-## 🧠 Chi sono
+## 👨‍🔬 Chi sono
 
 Sono interessato a:
 - 🌐 Sviluppo web
