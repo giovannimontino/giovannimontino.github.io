@@ -47,7 +47,7 @@ Sono interessato a:
     <h3 style="font-weight: 600;">Diagnostica in silico: coronaropatia</h3>
     <ul>
       <li>punto1</li>
-      <li>punto2/li>
+      <li>punto2</li>
       <li>punto3</li>
     </ul>
     <p> altre cose </p>
