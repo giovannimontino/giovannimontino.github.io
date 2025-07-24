@@ -29,11 +29,11 @@ Sono interessato a:
 <div style="display: flex; align-items:center">
 <img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
   <div>
-    <h3>Computational modeling of cardiac perfusion</h3>
-    <p>A multiphysics mathematical model of blood flow in the entire coronary circulation, from large arteries to capillaries. for the high fidelity Finite Element simulation of myocardial perfusion</p>
+    <h3 style="font-weight: 600";>Computational modeling of cardiac perfusion</h3>
     <ul>
-      <li>prova1</li>
-      <li>prova2</li>
+      <li>Multiphysics model of blood flow: from large arteries to capillaries</li>
+      <li>High fidelity Finite Element simulations</li>
+      <li>Patient specific setting</li>
     </ul>
   </div>
 <img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
