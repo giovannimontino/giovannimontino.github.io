@@ -27,7 +27,7 @@ Sono interessato a:
 ## 📁 [Research](/research/)
 
 <div style="display: flex; align-items:center">
-<img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 240px; margin-right: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
   <div>
     <h2 style="margin: 0;">Computational modeling in cardiology</h2>
     <h3 style="margin: 0;">descrizione</h3>
