@@ -8,9 +8,9 @@ lang : en
 <div style="display: flex; align-items: center;">
 <img src="/photos/home/homepage.jpg" alt="Foto Homepage" style="width: 200px; margin-right: 20px; margin-bottom: 15px; margin-top: 15px;">
   <div>
-    <h1 style="margin: 0;">Giovanni</h1>
-    <h2 style="margin: 0;">Montino Pelagi</h2>
-    <h3 style="margin: 0;">PhD in Biomedical Engineering</h3>
+    <h1 style="margin: 0; font-weight: 600;">Giovanni</h1>
+    <h1 style="margin: 0; font-weight: 600;">Montino Pelagi</h1>
+    <h2 style="margin: 0;">PhD in Biomedical Engineering</h2>
   </div>
 </div>
 
