@@ -32,7 +32,7 @@ Sono interessato a:
     <h2 style="margin: 0;">Computational modeling in cardiology</h2>
     <h3 style="margin: 0;">descrizione</h3>
   </div>
-<img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 200px; margin-left: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
 </div>
 
 1. **Computational modeling in cardiology** – descrizione breve
