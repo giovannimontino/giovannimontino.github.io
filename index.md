@@ -41,6 +41,21 @@ Sono interessato a:
 </div>
 <hr>
 
+<div style="display: flex; align-items:center">
+<img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
+  <div>
+    <h3 style="font-weight: 600;">Diagnostica in silico: coronaropatia</h3>
+    <ul>
+      <li>punto1</li>
+      <li>punto2/li>
+      <li>punto3</li>
+    </ul>
+    <p> altre cose </p>
+  </div>
+<img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
+</div>
+<hr>
+
 3. **Planning pre-operatorio: stenting coronarico** - altro progetto interessante
 
 ## 📫 Contatti
