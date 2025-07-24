@@ -6,7 +6,7 @@ lang : en
 {% include lang-switch.html %}
 
 <div style="display: flex; align-items: center;">
-<img src="/photos/homepage.jpg" alt="Foto Homepage" style="width: 120px; margin-right: 20px; margin-bottom: 20px;">
+<img src="/photos/home/homepage.jpg" alt="Foto Homepage" style="width: 120px; margin-right: 20px; margin-bottom: 20px;">
   <div>
     <h1 style="margin: 0;">Giovanni</h1>
     <h2 style="margin: 0;">Montino Pelagi</h2>
@@ -25,6 +25,14 @@ Sono interessato a:
 - ✍️ Scrittura e apprendimento
 
 ## 📁 [Research](/research/)
+
+<div style="display: flex; align-items:center">
+  <div>
+    <h1 style="margin: 0;">Computational modeling in cardiology</h1>
+    <h2 style="margin: 0;">descrizione</h2>
+  </div>
+<img src="/photos/home/BMMB_2.png" alt="Foto ricerca 1" style="width: 120px; margin-left: 20px; margin-bottom: 20px;">
+</div>
 
 1. **Computational modeling in cardiology** – descrizione breve
 2. **In silico diagnostics: coronary artery disease** – altro progetto interessante
