@@ -6,7 +6,7 @@ lang : it
 {% include lang-switch.html %}
 
 <div style="display: flex; align-items: center;">
-<img src="/photos/home/homepage.jpg" alt="Foto Homepage" style="width: 120px; margin-right: 20px; margin-bottom: 15px; margin-top: 15px;">
+<img src="/photos/home/homepage.jpg" alt="Foto Homepage" style="width: 200px; margin-right: 20px; margin-bottom: 15px; margin-top: 15px;">
   <div>
     <h1 style="margin: 0;">Giovanni</h1>
     <h2 style="margin: 0;">Montino Pelagi</h2>
@@ -26,7 +26,20 @@ Sono interessato a:
 
 ## 📁 [Ricerca](/ricerca/)
 
-1. **Modellistica computazionale in cardiologia** – descrizione breve
+<div style="display: flex; align-items:center">
+<img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
+  <div>
+    <h3 style="font-weight: 600;">Modellistica computazionale di perfusione cardiaca</h3>
+    <ul>
+      <li>Modello multifisica:<br> grandi coronarie &rarr; capillari</li>
+      <li>Simulazioni high fidelity:<br>CFD + microcircolo</li>
+      <li>Setting paziente specifico:<br> anatomia 3D ricostruita da TAC</li>
+    </ul>
+    <p> Scritto e implementato in <a href="https://lifex.gitlab.io/" target="_blank" rel="noopener noreferrer"> lifex </a></p>
+  </div>
+<img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
+</div>
+
 2. **Diagnostica in silico: coronaropatia** – altro progetto interessante
 3. **Planning pre-operatorio: stenting coronarico** - altro progetto interessante
 

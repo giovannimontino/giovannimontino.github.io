@@ -27,20 +27,19 @@ Sono interessato a:
 ## 📁 [Research](/research/)
 
 <div style="display: flex; align-items:center">
-<img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_1.png" alt="Research pic 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
   <div>
     <h3 style="font-weight: 600;">Computational modeling of cardiac perfusion</h3>
     <ul>
       <li>Multiphysics model:<br> large arteries &rarr; capillaries</li>
-      <li>High fidelity simulations:<br>CFD + blood flow in the microcirculation</li>
+      <li>High fidelity simulations:<br>CFD + microcirculation flow</li>
       <li>Patient specific setting:<br> CT-derived 3D anatomy</li>
     </ul>
     <p> Written and implemented in <a href="https://lifex.gitlab.io/" target="_blank" rel="noopener noreferrer"> lifex </a></p>
   </div>
-<img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_2.png" alt="Research pic 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
 </div>
 
-1. **Computational modeling in cardiology** – descrizione breve
 2. **In silico diagnostics: coronary artery disease** – altro progetto interessante
 3. **Pre-operative planning: percutaneous coronary intervention** - altro progetto interessante
 
