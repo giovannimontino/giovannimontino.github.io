@@ -47,7 +47,7 @@ Sono interessato a:
     <h3 style="font-weight: 600;">Diagnostica in silico: coronaropatie e ischemia</h3>
     <ul>
       <li>Analisi FFR<sub>CT</sub>:<br>rilevanza funzionale delle stenosi</li>
-      <li>Analisi Myocardial Blood Flow MBF:<br>localizzazione di ischemia da sforzo</li>
+      <li>Myocardial Blood Flow MBF:<br>diagnosi di ischemia da sforzo</li>
       <li>Analisi integrata:<br>associazione lesione-ischemia</li>
     </ul>
     <p> Fondato su metriche cliniche </p>
