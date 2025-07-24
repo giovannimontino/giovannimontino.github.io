@@ -35,6 +35,8 @@ Sono interessato a:
       <li>High fidelity simulations: CFD + microcirculation flow</li>
       <li>Patient specific setting: 3D CT-derived anatomy</li>
     </ul>
+    <p> Written and implemented in </p>
+    <a href="https://lifex.gitlab.io/" target="_blank" rel="noopener noreferrer"> lifex </a>
   </div>
 <img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
 </div>
