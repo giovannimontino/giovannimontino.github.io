@@ -6,7 +6,7 @@ lang : en
 {% include lang-switch.html %}
 
 <div style="display: flex; align-items: center;">
-<img src="/photos/home/homepage.jpg" alt="Foto Homepage" style="width: 120px; margin-right: 20px; margin-bottom: 20px;">
+<img src="/photos/home/homepage.jpg" alt="Foto Homepage" style="width: 120px; margin-right: 20px; margin-bottom: 15px; margin-top: 15px;">
   <div>
     <h1 style="margin: 0;">Giovanni</h1>
     <h2 style="margin: 0;">Montino Pelagi</h2>
