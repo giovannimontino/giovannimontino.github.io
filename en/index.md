@@ -32,8 +32,8 @@ Sono interessato a:
     <h3 style="font-weight: 600;">Computational modeling of cardiac perfusion</h3>
     <ul>
       <li>Multiphysics model of blood flow: from large arteries to capillaries</li>
-      <li>High fidelity Finite Element simulations</li>
-      <li>Patient specific setting</li>
+      <li>High fidelity simulations: CFD + microcirculation flow</li>
+      <li>Patient specific setting: 3D CT-derived anatomy</li>
     </ul>
   </div>
 <img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
