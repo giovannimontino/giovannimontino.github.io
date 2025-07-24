@@ -27,7 +27,7 @@ Sono interessato a:
 ## 📁 [Ricerca](/ricerca/)
 
 <div style="display: flex; align-items:center">
-<img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 210px; margin-right: 20px; margin-bottom: 20px;">
   <div>
     <h3 style="font-weight: 600;">Modellistica computazionale di perfusione cardiaca</h3>
     <ul>
@@ -37,12 +37,12 @@ Sono interessato a:
     </ul>
     <p> Scritto e implementato in <a href="https://lifex.gitlab.io/" target="_blank" rel="noopener noreferrer"> lifex </a></p>
   </div>
-<img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 205px; margin-left: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 215px; margin-left: 20px; margin-bottom: 20px;">
 </div>
 <hr>
 
 <div style="display: flex; align-items:center">
-<img src="/photos/home/project2_1.png" alt="Foto ricerca 3" style="width: 200px; margin-right: 20px; margin-bottom: 20px; margin-top: 10px;">
+<img src="/photos/home/project2_1.png" alt="Foto ricerca 3" style="width: 210px; margin-right: 20px; margin-bottom: 20px; margin-top: 10px;">
   <div>
     <h3 style="font-weight: 600;">Diagnostica in silico: coronaropatie</h3>
     <ul>
@@ -52,7 +52,7 @@ Sono interessato a:
     </ul>
     <p> altre cose </p>
   </div>
-<img src="/photos/home/project1_2.png" alt="Foto ricerca 4" style="width: 210px; margin-left: 20px; margin-bottom: 20px; margin-top: 10px;">
+<img src="/photos/home/project1_2.png" alt="Foto ricerca 4" style="width: 215px; margin-left: 20px; margin-bottom: 20px; margin-top: 10px;">
 </div>
 <hr>
 
