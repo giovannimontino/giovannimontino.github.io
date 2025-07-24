@@ -29,8 +29,8 @@ Sono interessato a:
 <div style="display: flex; align-items:center">
 <img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
   <div>
-    <h2 style="margin: 0;">Computational modeling in cardiology</h2>
-    <h3 style="margin: 0;">descrizione</h3>
+    <h2 style="margin: 0;">Computational modeling of cardiac perfusion</h2>
+    <h3 style="margin: 0;">A multiphysics mathematical model of blood flow in the entire coronary circulation, from large arteries to capillaries. for the high fidelity Finite Element simulation of myocardial perfusion</h3>
   </div>
 <img src="/photos/home/project1_2.png" alt="Foto ricerca 2" style="width: 210px; margin-left: 20px; margin-bottom: 20px;">
 </div>
