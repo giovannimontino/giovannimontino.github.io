@@ -19,10 +19,10 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 
 ## 👨‍🔬 Chi sono
 
-Ingegnere, ricercatore, sempre a metà tra fisica e medicina. Un po' del mio background:
+# Ingegnere, ricercatore, sempre a metà tra fisica e medicina. Un po' del mio background:
 
 <div style="display: flex; align-items:center">
-<img src="/photos/home/timeline.png" alt="timeline" style="width: 20px; margin-right: 20px;">
+<img src="/photos/home/timeline.png" alt="timeline" style="width: 34px; margin-right: 20px; margin-bottom: 15px;">
 <h3> 🧠 Ora: PhD in Ingegneria Biomedica <br>
 🫀 Ricercatore in bioingegneria e cardiologia - 9 mesi <br>
 🦿 Master in "Advanced Technologies in Rehabilitation" - 1 anno <br>
@@ -31,13 +31,7 @@ Ingegnere, ricercatore, sempre a metà tra fisica e medicina. Un po' del mio bac
 </h3>
 </div>
 
-- 🧠 Ora: PhD in Ingegneria Biomedica
-- 🫀 Ricercatore in bioingegneria e cardiologia - 9 mesi
-- 🦿 Master in "Advanced Technologies in Rehabilitation" - 1 anno
-- 👨‍🎓 Laurea magistrale in Ingegnerie Biomedica - Biomeccanica e Biomateriali
-- 👨‍🎓 Laurea triennale in Ingegneria dei Materiali e Nanotecnologie
-
-Appassionato di sport e di montagna, con la folle ambizione di diventare maestro di sci.
+# Appassionato di sport e di montagna, con la folle ambizione di diventare maestro di sci.
 
 ## 📁 [Ricerca](/ricerca/)
 
