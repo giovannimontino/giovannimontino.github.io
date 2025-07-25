@@ -3,6 +3,7 @@ layout: default
 title: Research
 permalink: /research/
 lang : en
+includemenu : yes
 ---
 {% include lang-switch.html %}
 

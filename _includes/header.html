@@ -63,7 +63,9 @@
             </div>
           </div>
         {% else %}
-          <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
+          {% if item.includemenu == "yes" %}
+            <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
+          {% endif %}
         {% endif %}
       {% endfor %}
     </nav>
