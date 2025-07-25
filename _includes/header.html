@@ -9,6 +9,7 @@
     text-decoration: none;
     color: black;
     font-weight: bold;
+    margin-left: 15px;
   }
 
   .dropdown-content {
@@ -44,7 +45,7 @@
       {% assign nav_items = site.pages | where:"lang", page.lang %}
       {% for item in nav_items %}
         {% if item.title == "Ricerca" %}
-          <div class="dropdown" style="display: inline-block; position: relative; margin-left: 15px;">
+          <div class="dropdown" style="display: inline-block; position: relative;">
             <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
             <div class="dropdown-content">
               <a href="/linee_ricerca/modellistica/">Modellistica</a>
@@ -53,7 +54,7 @@
             </div>
           </div>
         {% elsif item.title == "Research" %}
-          <div class="dropdown" style="display: inline-block; position: relative; margin-left: 15px;">
+          <div class="dropdown" style="display: inline-block; position: relative;">
             <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
             <div class="dropdown-content">
               <a href="/research_lines/modeling/">Modeling</a>
