@@ -3,7 +3,7 @@ layout: default
 title: Computational modeling
 permalink: /research_lines/modeling/
 lang : en
-includemenu : no
+includemenu : "no"
 ---
 {% include lang-switch.html %}
 

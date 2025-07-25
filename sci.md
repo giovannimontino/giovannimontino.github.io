@@ -3,7 +3,7 @@ layout: default
 title: Sci
 permalink: /sci/
 lang : it
-includemenu : yes
+includemenu : "yes"
 ---
 {% include lang-switch.html %}
 

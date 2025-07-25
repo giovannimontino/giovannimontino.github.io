@@ -3,7 +3,7 @@ layout: default
 title: Modellistica
 permalink: /linee_ricerca/modellistica/
 lang : it
-includemenu : no
+includemenu : "no"
 ---
 {% include lang-switch.html %}
 

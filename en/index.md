@@ -2,6 +2,7 @@
 layout: default
 title: "Home"
 lang : en
+includemenu : "yes"
 ---
 {% include lang-switch.html %}
 

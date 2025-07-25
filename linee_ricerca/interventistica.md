@@ -3,7 +3,7 @@ layout: default
 title: Interventistica
 permalink: /linee_ricerca/interventistica/
 lang : it
-includemenu : no
+includemenu : "no"
 ---
 {% include lang-switch.html %}
 

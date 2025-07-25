@@ -3,7 +3,7 @@ layout: default
 title: Intervention
 permalink: /research_lines/intervention/
 lang : en
-includemenu : no
+includemenu : "no"
 ---
 {% include lang-switch.html %}
 

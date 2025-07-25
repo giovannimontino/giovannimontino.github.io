@@ -3,7 +3,7 @@ layout: default
 title: Diagnostica
 permalink: /linee_ricerca/diagnostica/
 lang : it
-includemenu : no
+includemenu : "no"
 ---
 {% include lang-switch.html %}
 

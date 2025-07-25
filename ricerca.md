@@ -3,7 +3,7 @@ layout: default
 title: Ricerca
 permalink: /ricerca/
 lang : it
-includemenu : yes
+includemenu : "yes"
 ---
 {% include lang-switch.html %}
 
