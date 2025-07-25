@@ -31,7 +31,7 @@ Extra content: a couple of my greatest passions nobody asked for.
 </h4>
 </div>
 
-<h4>Passionate about sports and mountain activities, with the mad ambition of becoming a skiing instructor.</h4>
+#### Passionate about sports and mountain activities, with the mad ambition of becoming a skiing instructor.
 
 ## 📁 [Research](/research/)
 
