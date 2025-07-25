@@ -6,6 +6,8 @@ lang : it
 ---
 {% include lang-switch.html %}
 
-# Ricerca
+# Linee di ricerca
 
-Ho fatto un sacco di roba
+1. [Modellistica computazionale di perfusione cardiaca](/linee_ricerca/modellistica/)
+2. Diagnostica in silico: coronaropatie e ischemia
+3. Planning pre-operatorio: stenting coronarico
