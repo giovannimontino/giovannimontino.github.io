@@ -14,7 +14,7 @@
               <a href="/linee_ricerca/interventistica/">Interventistica</a>
             </div>
           </div>
-        {% elseif item.title == "Research" %}
+        {% elsif item.title == "Research" %}
           <div class="dropdown" style="display: inline-block; position: relative; margin-left: 15px;">
             <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
             <div class="dropdown-content" style="display: none; position: absolute; background: white; padding: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
