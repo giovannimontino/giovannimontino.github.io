@@ -5,7 +5,25 @@
     <nav class="site-nav">
       {% assign nav_items = site.pages | where:"lang", page.lang %}
       {% for item in nav_items %}
-        {% if item.title %}
+        {% if item.title == "Ricerca" %}
+          <div class="dropdown" style="display: inline-block; position: relative; margin-left: 15px;">
+            <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
+            <div class="dropdown-content" style="display: none; position: absolute; background: white; padding: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+              <a href="/linee_ricerca/modellistica/">Modellistica</a>
+              <a href="/linee_ricerca/diagnostica/">Diagnostica</a>
+              <a href="/linee_ricerca/interventistica/">Interventistica</a>
+            </div>
+          </div>
+        {% elseif item.title == "Research" %}
+          <div class="dropdown" style="display: inline-block; position: relative; margin-left: 15px;">
+            <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
+            <div class="dropdown-content" style="display: none; position: absolute; background: white; padding: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+              <a href="/en/research_lines/modeling/">Modeling</a>
+              <a href="/en/research_lines/diagnostics/">Diagnostics</a>
+              <a href="/en/research_lines/intervention/">Intervention</a>
+            </div>
+          </div>
+        {% else %}
           <a href="{{ item.url | relative_url }}" style="margin-left: 15px;">{{ item.title }}</a>
         {% endif %}
       {% endfor %}
