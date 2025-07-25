@@ -38,7 +38,9 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 <div style="display: flex; align-items:center">
 <img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 210px; margin-right: 20px; margin-bottom: 15px;">
   <div>
-    <h3 style="font-weight: 600;">Modellistica computazionale di perfusione cardiaca</h3>
+    <a href="/linee_ricerca/modellistica">
+      <h3 style="font-weight: 600;">Modellistica computazionale di perfusione cardiaca</h3>
+    </a>
     <ul>
       <li>Modello multifisica:<br> grandi coronarie &rarr; capillari</li>
       <li>Simulazioni high fidelity:<br>CFD + microcircolo</li>
