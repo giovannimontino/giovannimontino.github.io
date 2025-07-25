@@ -60,7 +60,7 @@ Extra content: a couple of my greatest passions nobody asked for.
       <h3 style="font-weight: 600;">In silico diagnostics:<br>coronary artery disease</h3>
     </a>
     <ul>
-      <li>FFR<sub>CT</sub> analysis:<br>funcional significance of stenoses</li>
+      <li>FFR<sub>CT</sub> analysis:<br>functional significance of stenoses</li>
       <li>Myocardial Blood Flow MBF:<br>diagnosis of stress ischemia</li>
       <li>Integrated analysis:<br>stenosis-ischemia association</li>
     </ul>
