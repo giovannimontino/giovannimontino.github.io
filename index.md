@@ -22,13 +22,13 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 Ingegnere, ricercatore, sempre a metà tra fisica e medicina. Un po' del mio background:
 
 <div style="display: flex; align-items:center">
-<img src="/photos/home/timeline.png" alt="timeline" style="width: 100px; margin-right: 20px;">
-<p> 🧠 Ora: PhD in Ingegneria Biomedica <br>
+<img src="/photos/home/timeline.png" alt="timeline" style="width: 20px; margin-right: 20px;">
+<h3> 🧠 Ora: PhD in Ingegneria Biomedica <br>
 🫀 Ricercatore in bioingegneria e cardiologia - 9 mesi <br>
 🦿 Master in "Advanced Technologies in Rehabilitation" - 1 anno <br>
 👨‍🎓 Laurea magistrale in Ingegnerie Biomedica - Biomeccanica e Biomateriali <br>
 👨‍🎓 Laurea triennale in Ingegneria dei Materiali e Nanotecnologie
-</p>
+</h3>
 </div>
 
 - 🧠 Ora: PhD in Ingegneria Biomedica
