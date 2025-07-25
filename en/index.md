@@ -26,7 +26,7 @@ Engineer, researcher, always in-between physics and medicine. Some of my backgro
 - 👨‍🎓 MSc in Biomedical Engineering - Biomechanics & Biomaterials specialization
 - 👨‍🎓 BSc in Materials Engineering and Nanotechnology
 
-Passionate about sports and mountain activities, with the insane ambition of becoming a skiing instructor
+Passionate about sports and mountain activities, with the insane ambition of becoming a skiing instructor.
 
 ## 📁 [Research](/research/)
 
