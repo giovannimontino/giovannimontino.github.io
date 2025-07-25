@@ -56,13 +56,13 @@
           <div class="dropdown" style="display: inline-block; position: relative; margin-left: 15px;">
             <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
             <div class="dropdown-content">
-              <a href="/en/research_lines/modeling/">Modeling</a>
-              <a href="/en/research_lines/diagnostics/">Diagnostics</a>
-              <a href="/en/research_lines/intervention/">Intervention</a>
+              <a href="/research_lines/modeling/">Modeling</a>
+              <a href="/research_lines/diagnostics/">Diagnostics</a>
+              <a href="/research_lines/intervention/">Intervention</a>
             </div>
           </div>
         {% else %}
-          <a href="{{ item.url | relative_url }}" style="margin-left: 15px;">{{ item.title }}</a>
+          <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
         {% endif %}
       {% endfor %}
     </nav>
