@@ -24,10 +24,7 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 <div style="display: flex; align-items:center">
 <img src="/photos/home/timeline.png" alt="timeline" style="width: 29px; margin-right: 20px; margin-bottom: 15px;">
 <h4> 🧠 Ora: PhD in Ingegneria Biomedica <br><br>
-🫀 Ricercatore in bioingegneria e cardiologia - 9 mesi <br>
-</h4>
-<h4 style="margin-right: 5px;"> | </h4>
-<h4>
+🫀 Ricercatore in bioingegneria e cardiologia - 9 mesi <br><br>
 🦿 Master in "Advanced Technologies in Rehabilitation" - 1 anno <br><br>
 👨‍🎓 Laurea magistrale in Ingegnerie Biomedica - Biomeccanica e Biomateriali <br><br>
 👨‍🎓 Laurea triennale in Ingegneria dei Materiali e Nanotecnologie
