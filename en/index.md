@@ -49,7 +49,7 @@ Extra content: a couple of my greatest passions nobody asked for.
     </ul>
     <p> Written and implemented in <a href="https://lifex.gitlab.io/" target="_blank" rel="noopener noreferrer"> lifex </a></p>
   </div>
-<img src="/photos/home/project1_2.png" alt="Research pic 2" style="width: 205px; margin-left: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_2.png" alt="Research pic 2" style="width: 215px; margin-left: 20px; margin-bottom: 20px;">
 </div>
 <hr>
 
