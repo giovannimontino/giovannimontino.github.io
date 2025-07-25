@@ -19,10 +19,14 @@ Extra content: a couple of my greatest passions nobody asked for.
 
 ## 👨‍🔬 About
 
-Sono interessato a:
-- 🌐 Sviluppo web
-- 🧪 Tecnologia e innovazione
-- ✍️ Scrittura e apprendimento
+Engineer, researcher, always in-between physics and medicine. Some of my background:
+- 🧠 Present: PhD in Biomedical Engineering
+- 🫀 Research fellow in bioengineering and cardiology @ Monzino Cardiology Centre - 9 months
+- 🦿 Master in "Advanced Technologies in Rehabilitation" - 1 year
+- 👨‍🎓 MSc in Biomedical Engineering - Biomechanics & Biomaterials specialization
+- 👨‍🎓 BSc in Materials Engineering and Nanotechnology
+
+Passionate about sports and mountain activities, with the insane ambition of becoming a skiing instructor
 
 ## 📁 [Research](/research/)
 

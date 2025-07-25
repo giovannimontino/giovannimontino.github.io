@@ -19,17 +19,19 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 
 ## 👨‍🔬 Chi sono
 
-Ingegnere, ricercatore, sempre a metà tra fisica e medicina.
-- 🫀 Ricercatore ad assegno in bioingegneria e cardiologia
+Ingegnere, ricercatore, sempre a metà tra fisica e medicina. Un po' del mio background:
+- 🧠 Ora: PhD in Ingegneria Biomedica
+- 🫀 Ricercatore in bioingegneria e cardiologia presso il Centro Cardiologico Monzino - 9 mesi
 - 🦿 Master in "Advanced Technologies in Rehabilitation"
-- 👨‍🎓 Laurea magistrale in Ingegnerie Biomedica, Laurea in Ingegneria dei Materiali e Nanotecnologie
+- 👨‍🎓 Laurea magistrale in Ingegnerie Biomedica - Biomeccanica e Biomateriali
+- 👨‍🎓 Laurea triennale in Ingegneria dei Materiali e Nanotecnologie
 
 Appassionato di sport e di montagna, con la folle ambizione di diventare maestro di sci.
 
 ## 📁 [Ricerca](/ricerca/)
 
 <div style="display: flex; align-items:center">
-<img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 210px; margin-right: 20px; margin-bottom: 20px;">
+<img src="/photos/home/project1_1.png" alt="Foto ricerca 1" style="width: 210px; margin-right: 20px; margin-bottom: 15px;">
   <div>
     <h3 style="font-weight: 600;">Modellistica computazionale di perfusione cardiaca</h3>
     <ul>
