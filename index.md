@@ -22,7 +22,7 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 Ingegnere, ricercatore, sempre a metà tra fisica e medicina. Un po' del mio background:
 - 🧠 Ora: PhD in Ingegneria Biomedica
 - 🫀 Ricercatore in bioingegneria e cardiologia presso il Centro Cardiologico Monzino - 9 mesi
-- 🦿 Master in "Advanced Technologies in Rehabilitation"
+- 🦿 Master in "Advanced Technologies in Rehabilitation" - 1 anno
 - 👨‍🎓 Laurea magistrale in Ingegnerie Biomedica - Biomeccanica e Biomateriali
 - 👨‍🎓 Laurea triennale in Ingegneria dei Materiali e Nanotecnologie
 
