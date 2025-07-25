@@ -2,7 +2,7 @@
 layout: default
 title: Modellistica Computazionale
 permalink: /linee_ricerca/modellistica/
-lang : none
+lang : it
 ---
 {% include lang-switch.html %}
 
