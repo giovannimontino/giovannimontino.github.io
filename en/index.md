@@ -39,7 +39,9 @@ Extra content: a couple of my greatest passions nobody asked for.
 <div style="display: flex; align-items:center">
 <img src="/photos/home/project1_1.png" alt="Research pic 1" style="width: 200px; margin-right: 20px; margin-bottom: 20px;">
   <div>
-    <h3 style="font-weight: 600;">Computational modeling of cardiac perfusion</h3>
+    <a href="/research_lines/modeling">
+      <h3 style="font-weight: 600;">Computational modeling of cardiac perfusion</h3>
+    </a>
     <ul>
       <li>Multiphysics model:<br> large arteries &rarr; capillaries</li>
       <li>High fidelity simulations:<br>CFD + microcirculation flow</li>
@@ -54,7 +56,9 @@ Extra content: a couple of my greatest passions nobody asked for.
 <div style="display: flex; align-items:center">
 <img src="/photos/home/project2_1.png" alt="Foto ricerca 3" style="width: 210px; margin-right: 20px; margin-bottom: 20px; margin-top: 10px;">
   <div>
-    <h3 style="font-weight: 600;">In silico diagnostics:<br>coronary artery disease</h3>
+    <a href="/research_lines/diagnostics">
+      <h3 style="font-weight: 600;">In silico diagnostics:<br>coronary artery disease</h3>
+    </a>
     <ul>
       <li>FFR<sub>CT</sub> analysis:<br>stenosis funcional significance</li>
       <li>Myocardial Blood Flow MBF:<br>diagnosis of stress ischemia</li>

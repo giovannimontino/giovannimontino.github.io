@@ -56,7 +56,9 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 <div style="display: flex; align-items:center">
 <img src="/photos/home/project2_1.png" alt="Foto ricerca 3" style="width: 210px; margin-right: 20px; margin-bottom: 20px; margin-top: 10px;">
   <div>
-    <h3 style="font-weight: 600;">Diagnostica in silico: coronaropatie e ischemia</h3>
+    <a href="/linee_ricerca/diagnostica">
+      <h3 style="font-weight: 600;">Diagnostica in silico: coronaropatie e ischemia</h3>
+    </a>
     <ul>
       <li>Analisi FFR<sub>CT</sub>:<br>rilevanza funzionale delle stenosi</li>
       <li>Myocardial Blood Flow MBF:<br>diagnosi di ischemia da sforzo</li>
