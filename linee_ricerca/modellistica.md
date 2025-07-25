@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modellistica Computazionale
+title: Modellistica
 permalink: /linee_ricerca/modellistica/
 lang : it
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pre-operative planning
+title: Intervention
 permalink: /research_lines/intervention/
 lang : en
 ---

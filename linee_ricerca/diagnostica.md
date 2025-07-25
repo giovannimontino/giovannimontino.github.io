@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diagnostica coronarica
+title: Diagnostica
 permalink: /linee_ricerca/diagnostica/
 lang : it
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coronary diagnostics
+title: Diagnostics
 permalink: /research_lines/diagnostics/
 lang : en
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Planning pre-operatorio
+title: Interventistica
 permalink: /linee_ricerca/interventistica/
 lang : it
 ---
