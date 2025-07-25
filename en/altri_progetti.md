@@ -3,7 +3,7 @@ layout: default
 title: Other projects
 permalink: /other_projects/
 lang : en
-includemenu : yes
+includemenu : "yes"
 ---
 {% include lang-switch.html %}
 
