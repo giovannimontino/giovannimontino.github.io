@@ -1,22 +1,38 @@
 <style>
-  .dropdown:hover .dropdown-content {
-    display: block;
+  .dropdown {
+    display: inline-block;
+    position: relative;
+    margin-left: 15px;
+  }
+
+  .dropbtn {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
   }
 
   .dropdown-content a {
     display: block;
-    text-decoration: none;
-    padding: 5px 10px;
+    padding: 8px 12px;
     color: black;
+    text-decoration: none;
   }
 
   .dropdown-content a:hover {
     background-color: #f0f0f0;
   }
 
-  .dropbtn {
-    text-decoration: none;
-    color: black;
+  .dropdown:hover .dropdown-content {
+    display: block;
   }
 </style>
 
@@ -30,7 +46,7 @@
         {% if item.title == "Ricerca" %}
           <div class="dropdown" style="display: inline-block; position: relative; margin-left: 15px;">
             <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
-            <div class="dropdown-content" style="display: none; position: absolute; background: white; padding: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+            <div class="dropdown-content">
               <a href="/linee_ricerca/modellistica/">Modellistica</a>
               <a href="/linee_ricerca/diagnostica/">Diagnostica</a>
               <a href="/linee_ricerca/interventistica/">Interventistica</a>
@@ -39,7 +55,7 @@
         {% elsif item.title == "Research" %}
           <div class="dropdown" style="display: inline-block; position: relative; margin-left: 15px;">
             <a href="{{ item.url | relative_url }}" class="dropbtn">{{ item.title }}</a>
-            <div class="dropdown-content" style="display: none; position: absolute; background: white; padding: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+            <div class="dropdown-content">
               <a href="/en/research_lines/modeling/">Modeling</a>
               <a href="/en/research_lines/diagnostics/">Diagnostics</a>
               <a href="/en/research_lines/intervention/">Intervention</a>
