@@ -19,14 +19,19 @@ Extra content: a couple of my greatest passions nobody asked for.
 
 ## 👨‍🔬 About
 
-Engineer, researcher, always in-between physics and medicine. Some of my background:
-- 🧠 Present: PhD in Biomedical Engineering
-- 🫀 Research fellow in bioengineering and cardiology @ Monzino Cardiology Centre - 9 months
-- 🦿 Master in "Advanced Technologies in Rehabilitation" - 1 year
-- 👨‍🎓 MSc in Biomedical Engineering - Biomechanics & Biomaterials specialization
-- 👨‍🎓 BSc in Materials Engineering and Nanotechnology
+#### Engineer, researcher, always in-between physics and medicine. Some of my background:
 
-Passionate about sports and mountain activities, with the mad ambition of becoming a skiing instructor.
+<div style="display: flex; align-items:center">
+<img src="/photos/home/timeline.png" alt="timeline" style="width: 29px; margin-right: 20px; margin-bottom: 15px;">
+<h4> 🧠 Now: PhD in Biomedical Engineering <br><br>
+🫀 Research fellow in bioengineering and cardiology - 9 months <br><br>
+🦿 Master in "Advanced Technologies in Rehabilitation" - 1 year <br><br>
+👨‍🎓 MSc in Biomedical Engineering - Biomechanics & Biomaterials specialization <br><br>
+👨‍🎓 BSc in Materials Engineering and Nanotechnology
+</h4>
+</div>
+
+<h4>Passionate about sports and mountain activities, with the mad ambition of becoming a skiing instructor.</h4>
 
 ## 📁 [Research](/research/)
 
