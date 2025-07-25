@@ -19,7 +19,7 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 
 ## 👨‍🔬 Chi sono
 
-### Ingegnere, ricercatore, sempre a metà tra fisica e medicina. Un po' del mio background:
+Ingegnere, ricercatore, sempre a metà tra fisica e medicina. Un po' del mio background:
 
 <div style="display: flex; align-items:center">
 <img src="/photos/home/timeline.png" alt="timeline" style="width: 29px; margin-right: 20px; margin-bottom: 15px;">
@@ -31,7 +31,7 @@ Contenuti extra: qualche mia grande passione. Così, per gradire.
 </h4>
 </div>
 
-### Appassionato di sport e di montagna, con la folle ambizione di diventare maestro di sci.
+Appassionato di sport e di montagna, con la folle ambizione di diventare maestro di sci.
 
 ## 📁 [Ricerca](/ricerca/)
 
